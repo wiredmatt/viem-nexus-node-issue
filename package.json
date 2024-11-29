@@ -1,0 +1,14 @@
+{
+  "name": "viem-nexus-node-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@biconomy/sdk": "^0.0.11",
+    "@rhinestone/module-sdk": "^0.1.28",
+    "viem": "^2.21.53"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
